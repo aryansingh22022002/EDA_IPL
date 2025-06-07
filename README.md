@@ -1,0 +1,1 @@
+This project performs an exploratory data analysis on Indian Premier League (IPL) match data using Python. The notebook investigates key trends, team performances, player stats, and match outcomes to extract insights from past IPL seasons.
